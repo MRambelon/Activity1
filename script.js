@@ -1,0 +1,1 @@
+console.log('J\'affiche dans la console un message')
